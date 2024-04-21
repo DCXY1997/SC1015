@@ -49,7 +49,7 @@ Reason: We perform random forest, which combine multiple decision trees to impro
 
 Reason: We wanted a highly interpretable model that could also address mental health issues and unemployment. Unfortunetely, by using this model we sacrificed reliability in exchange for more interpretable result.
 
-##6. Neural Network
+## 6. Neural Network
 
 Reason: We wanted a model that could learn complex patterns and representations from data, that could provide a more valuable insight between mental health and employment.
 
