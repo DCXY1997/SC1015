@@ -57,7 +57,7 @@ Reason: We wanted a model that could learn complex patterns and representations 
 
 Reason: We wanted a model that includs interpretability and efficiency, while able to incoporate categorical data. It similar to linear regression as both provides coefficient and probability, making it valuable for discerning relationships between features and the target variables such as mental health and employment.
 
-##8 SVM
+## 8 SVM
 
 Reason: We choose svm for its effectiveness in high-dimensional spaces, making them suitable for datasets with numerous feature. The model ability to perform classification betwwen class were also part of the reason why we choose this model.
 
