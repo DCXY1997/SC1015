@@ -70,7 +70,12 @@ Reason: We choose svm for its effectiveness in high-dimensional spaces, making t
 ## Conclusion
 In summary, the selection of decision trees, SVM, neural networks, random forests, and logistic regression is driven by their respective strengths in interpretability, handling high-dimensional data, learning complex patterns and providing probabilistic interpretations. Notably we found out that having clear mental health symptoms does affect employment since we choose feature related to mental health to predict employment, and the confusion matrix generate indicates little false positive and negative.
 
-
+## References
+- https://www.kaggle.com/datasets/michaelacorley/unemployment-and-mental-illness-survey
+- https://www.simplilearn.com/tutorials/machine-learning-tutorial/random-forest-algorithm#:~:text=Step%201%3A%20Select%20random%20samples,as%20the%20final%20prediction%20result.
+- https://www.w3schools.com/python/python_ml_logistic_regression.asp
+- https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
+- https://www.analyticsvidhya.com/blog/2021/09/introduction-to-artificial-neural-networks/#:~:text=An%20Artificial%20Neural%20Network%20(ANN)%20is%20a%20machine%20learning%20model,learn%20patterns%20and%20make%20predictions.
 
 
 
