@@ -76,6 +76,7 @@ In summary, the selection of decision trees, SVM, neural networks, random forest
 - https://www.w3schools.com/python/python_ml_logistic_regression.asp
 - https://www.datacamp.com/tutorial/svm-classification-scikit-learn-python
 - https://www.analyticsvidhya.com/blog/2021/09/introduction-to-artificial-neural-networks/#:~:text=An%20Artificial%20Neural%20Network%20(ANN)%20is%20a%20machine%20learning%20model,learn%20patterns%20and%20make%20predictions.
-
+- https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd
+- https://www.researchgate.net/figure/Calculation-of-Precision-Recall-and-Accuracy-in-the-confusion-matrix_fig3_336402347
 
 
