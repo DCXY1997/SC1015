@@ -62,7 +62,7 @@ Reason: We wanted a model that includs interpretability and efficiency, while ab
 Reason: We choose svm for its effectiveness in high-dimensional spaces, making them suitable for datasets with numerous feature. The model ability to perform classification betwwen class were also part of the reason why we choose this model.
 
 ## Conclusion
-In summary, the selection of decision trees, SVM, neural networks, random forests, and logistic regression is driven by their respective strengths in interpretability, handling high-dimensional data, learning complex patterns, ensemble learning, and providing probabilistic interpretations. 
+In summary, the selection of decision trees, SVM, neural networks, random forests, and logistic regression is driven by their respective strengths in interpretability, handling high-dimensional data, learning complex patterns and providing probabilistic interpretations. Notably we found out that having clear mental health symptoms does affect employment since we choose feature related to mental health to predict employment, and the confusion matrix generate indicates little false positive and negative.
 
 
 
