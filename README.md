@@ -1,3 +1,9 @@
+## Contributors
+
+1. Darren Chia
+2. Keng
+3. Jared
+
 This is a mini project for SC1015 (INTRO TO DATA SCI & ART INTELLIGENCE). The project focuses on mental health from [Kaggle](https://www.kaggle.com/datasets/michaelacorley/unemployment-and-mental-illness-survey). This repository contains all the Jupyter Notebooks, datasets, images, video presentations, and the source materials/references we have used and created as part of the Mini Project for SC1015: Introduction to Data Science and AI.
 
 ## Table of content
